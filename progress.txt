@@ -1,0 +1,34 @@
+PARA FAZER: 
+ - Fazer visual da aplicacao
+
+v1.0 (Completo)
+ - 5 imagens na biblioteca
+ - Mostrar imagens randomicamente
+ - implementar barra de progresso
+ - texto com tempo restante na progress bar
+ - selecao de tempo variavel
+ - botoes de pausa, start
+ - botao de proxima imagem (carrega uma nova imagem randomicamente)
+ - botao de imagem anterior (carrrega a ultima imagem, só mantem armazenado a ultima imagem carregada)
+ - back button volta para o menu inicial na activity principal
+ - Tela inicial
+
+v1.1 (incompleto)
+ - Colocar mais imagens na biblioteca(quantas ??)
+ - Criar classe contendo dados da imagem
+ - Implementar variedade de selecao (masculino, feminino, ambos)
+
+v1.2 (incompleto)
+ - Colocar mais imagens (quantas?)
+ - mais variedade de selecao (quais?)
+ - Implimentar arrayList permitindo percorrer por todas as imagens já mostradas dessa vez
+ - Tratar rotacao de tela
+
+v1.3 (incompleto)
+ - Colocar mais imagens (quantas?)
+ - mais variedade de selecao (quais?)
+
+             ....
+
+ - Usuário inserir suas próprias imagens (??)
+ - Implementar banco de dados SQLite (??)

@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorOrange</item>
+        <item name="colorPrimaryDark">@color/colorGray</item>
+        <item name="colorAccent">@color/colorBlack</item>
+    </style>
+
+    <style name="NextButton" parent="android:Widget.Button">
+        <item name="android:background">@drawable/selector_next_button</item>
+    </style>
+
+    <style name="PauseButton" parent="android:Widget.Button">
+        <item name="android:background">@drawable/selector_pause_button</item>
+    </style>
+
+    <style name="PlayButton" parent="android:Widget.Button">
+        <item name="android:background">@drawable/selector_play_button</item>
+    </style>
+
+    <style name="PreviousButton" parent="android:Widget.Button">
+        <item name="android:background">@drawable/selector_previous_button</item>
+    </style>
+
+</resources>
